@@ -1,4 +1,14 @@
-# Snake-Game
-A Simple
 
-HTML,CSS,JAVASCRIPT
+# Snake Game
+
+A Simple Snake Game using JAVASCIPT
+
+
+
+## 🛠 Languages
+Javascript, HTML,...
+
+
+
+
+
